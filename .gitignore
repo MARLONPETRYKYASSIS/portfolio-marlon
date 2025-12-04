@@ -1,0 +1,57 @@
+# Compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build directories
+build/
+dist/
+out/
+target/
+bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# Dependency directories
+vendor/
