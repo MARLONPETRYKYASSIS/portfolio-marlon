@@ -1,0 +1,18 @@
+{
+  "name": "rh-login-system",
+  "version": "1.0.0",
+  "description": "Sistema de login completo para RH com Node.js, Express, JWT e Argon2",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "argon2": "^0.41.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^11.1.0"
+  }
+}
