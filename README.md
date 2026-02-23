@@ -3,7 +3,7 @@
 Portfólio profissional de Marlon Assis com visão consolidada de projetos em Engenharia de Software, Dados e Automação de Processos.
 
 ## Sobre
-Desenvolvedor com foco em Python, automação, dashboards e sistemas web. Este repositório funciona como ponto central para avaliação técnica por recrutadores, empresas e parceiros.
+Desenvolvedor com foco em Python, automação, dashboards e sistemas web. Este repositório funciona como ponto central para avaliação técnica.
 
 ## 🚀 Tecnologias
 - Python
@@ -57,3 +57,4 @@ Em desenvolvimento contínuo
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/marlon-petryk
 - E-mail: marlonpetryky35@gmail.com
+
